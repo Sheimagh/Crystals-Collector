@@ -2,7 +2,7 @@
 
 Link to game:
 
-
+https://sheimagh.github.io/Crystals-Collector/
 
 How to Play:
 
