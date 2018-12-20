@@ -25,8 +25,6 @@ How to Play:
 
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
-If the user does not guess the correct city name within the allocated number of guesses, then the game resets.
-
 Assets used:
 
 images: https://www.shutterstock.com
