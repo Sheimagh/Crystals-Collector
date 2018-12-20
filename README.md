@@ -29,9 +29,9 @@ Assets used:
 
 images: https://www.shutterstock.com
 
- ![](CrystalsCollection%20screenshot.PNG)
- <a href = "https://sheimagh.github.io/Crystals-Collector/"> 
 
+<img src="https://sheimagh.github.io/Crystals-Collector/" alt="CrystalsCollection screenshot" data-canonical-src="https://user-images.githubusercontent.com/44955946/50315010-a86eda80-0476-11e9-84f0-21d63fa4eed5.PNG" style="max-width:100%;">
+ 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ### jQuery Assignment
