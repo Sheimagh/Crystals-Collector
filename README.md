@@ -31,7 +31,6 @@ images: https://www.shutterstock.com
 
 ![](CrystalsCollection%20screenshot.PNG)
 
- 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ### jQuery Assignment
