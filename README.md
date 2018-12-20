@@ -29,8 +29,8 @@ Assets used:
 
 images: https://www.shutterstock.com
 
-
-![crystalscollection screenshot](https://sheimagh.github.io/Crystals-Collector/)
+ <a href = "https://sheimagh.github.io/Crystals-Collector/"> 
+ <img src="images/CrystalsCollection%20screenshot.PNG">
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
