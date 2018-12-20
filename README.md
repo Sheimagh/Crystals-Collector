@@ -30,8 +30,7 @@ Assets used:
 images: https://www.shutterstock.com
 
  <a href = "https://sheimagh.github.io/Crystals-Collector/"> 
- <img src="images/CrystalsCollection%20screenshot.PNG">
-
+ ![](images/CrystalsCollection%20screenshot.PNG)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ### jQuery Assignment
