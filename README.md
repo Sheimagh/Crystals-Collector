@@ -29,7 +29,7 @@ Assets used:
 
 images: https://www.shutterstock.com
 
- ![](images/CrystalsCollection%20screenshot.PNG)
+ ![](CrystalsCollection%20screenshot.PNG)
  <a href = "https://sheimagh.github.io/Crystals-Collector/"> 
 
 ------------------------------------------------------------------------------------------------------------------------------------
