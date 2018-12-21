@@ -29,7 +29,9 @@ Assets used:
 
 images: https://www.shutterstock.com
 
-![](CrystalsCollection%20screenshot.PNG)
+
+[<img src="CrystalsCollection%20screenshot.PNG">](https://sheimagh.github.io/Crystals-Collector/)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
